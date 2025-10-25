@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashir</h1>
 <h3 align="center">A passionate AI Engineer | Machine Learning | Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnationalcioreview.com%2Farticles-insights%2Ftechnology%2Fartificial-intelligence%2Fvibe-coding-moves-into-the-mainstream%2F&psig=AOvVaw3Ps2oU-3E1PIAJozIXjpXm&ust=1761458269489000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOipl8bVvpADFQAAAAAdAAAAABA3">
+<img align="right" alt="coding" width="400" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashir1881&label=Profile%20views&color=0e75b6&style=flat" alt="hashir1881" /> </p>
 
