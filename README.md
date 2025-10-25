@@ -1,4 +1,4 @@
-![logo] ()
+![logo](https://github.com/hashir1881/hashir1881/blob/main/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Hashir!;A+passionate;+AI+Engineer;+Data+Scientist;" />
 </h1>
